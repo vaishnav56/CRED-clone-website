@@ -3,6 +3,30 @@
 @tailwind utilities;
 
 /* Reset CSS */
+
+@font-face {
+    font-family: 'gilroyBold';
+    src: url('/assets/Fonts/Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'gilroyRegular';
+    src: url('/assets/Fonts/Gilroy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'gilroySemiBold';
+    src: url('/assets/Fonts/Gilroy-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'fontOne';
+    src: url('/assets/Fonts/KFOlCnqEu92Fr1MmEU9fBBc4.ttf');
+}
+@font-face {
+    font-family: 'fontTwo';
+    src: url('/assets/Fonts/KFOmCnqEu92Fr1Mu4mxK.ttf');
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -13,4 +37,7 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
 /* Custom styles go below */
+
+
