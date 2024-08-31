@@ -45,7 +45,7 @@ To view or work with the project locally:
 
 ## 🙏 Credits
 
-This project is greatly inspired by [Gravity Coding](https://www.youtube.com/channel/GravityCoding) on YouTube, whose detailed tutorial made this clone possible. Big thanks for the guidance and insights!
+This project is greatly inspired by [Gravity Coding](https://www.youtube.com/live/gbqmvxdTnd0?feature=shared) on YouTube, whose detailed tutorial made this clone possible. Big thanks for the guidance and insights!
 
 ## 👤 Author
 
