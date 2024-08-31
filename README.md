@@ -52,9 +52,6 @@ This project is greatly inspired by [Gravity Coding](https://www.youtube.com/liv
 - **Mohit Vaishnav**  
   [GitHub Profile](https://github.com/vaishnav56)  
 
-## 📜 License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
