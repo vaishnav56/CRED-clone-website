@@ -5,7 +5,7 @@ gsap.from(".part1",{
     opacity:0,
     y:30,
     duration:1.5,
-})
+}, "a")
 
 tl.from("#img1",{
     left:"-90%",
