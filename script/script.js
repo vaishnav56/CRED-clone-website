@@ -16,7 +16,7 @@ tl.from("#img1",{
         end: "150% center",
         scrub:2
     }
-})
+}, "a")
 tl.from("#img2",{
     left:"-90%",
     scrollTrigger: {
@@ -26,7 +26,7 @@ tl.from("#img2",{
         end: "150% center",
         scrub:2
     }
-})
+}, "a")
 tl.from("#img3",{
     top:"-205vh",
     scrollTrigger: {
@@ -36,7 +36,7 @@ tl.from("#img3",{
         end: "150% center",
         scrub:2
     }
-})
+}, "a")
 tl.from("#img4",{
     left:"178%",
     scrollTrigger: {
@@ -46,7 +46,7 @@ tl.from("#img4",{
         end: "150% center",
         scrub:2
     }
-})
+}, "a")
 tl.from("#img5",{
     left:"178%",
     scrollTrigger: {
@@ -56,7 +56,7 @@ tl.from("#img5",{
         end: "150% center",
         scrub:2
     }
-})
+}, "a")
 
 
 const tl2 = gsap.timeline({
